@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\pre-dexed\debug\classes-df027b74099ea9ff5da90549095e406777dbd6b7.jar" />
+    </item>
+    <item
+        jar="D:\Android_setup_Feb15\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-4330909aa1152e1695e56b76df3df91c6e65c838.jar" />
+    </item>
+    <item
+        jar="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\pre-dexed\debug\classes-5444c18347f7bc2de64496fb61f12c55f50fed9b.jar" />
+    </item>
+    <item
+        jar="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\pre-dexed\debug\classes-0bd1abbd0efd2e3a07a92b6577f96cd166734754.jar" />
+    </item>
+    <item
+        jar="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\PocketFeeds_SachinHol_W4\PocketFeeds_SachinHol_W4\Movie\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-6e114d633202f24005acd97c92e4e1b4afe636c6.jar" />
+    </item>
+
+</items>

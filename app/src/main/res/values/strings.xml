@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Upcoming Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="results">RESULTS</string>
+    <string name="title_activity_information">Information</string>
+
+</resources>
